@@ -1,3 +1,3 @@
 ## This is an `<h2>` header
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Udacity](https://www.udacity.com/blog/wp-content/uploads/2019/03/480-white.png)
