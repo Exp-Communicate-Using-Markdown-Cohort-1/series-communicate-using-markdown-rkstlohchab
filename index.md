@@ -7,6 +7,6 @@ $ npm react app js
 this ia not rurur
 ```
 
-- [x] ye woh 
-- [x] This item is dfajflajfl
-- [ ] This item faljfafjlasjfljadlf not complete
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
